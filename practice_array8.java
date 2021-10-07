@@ -20,6 +20,8 @@ public class Main {
     }
 }
 
+https://paiza.jp/works/mondai/c_rank_level_up_problems/c_rank_std_in_out_boss
+
 import java.util.*;
 
 
